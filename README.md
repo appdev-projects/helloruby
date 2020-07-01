@@ -1,4 +1,4 @@
-# hello.rb
+# helloruby
 
 To create a Gitpod workspace based on this repository, paste a URL similar to the below into your address bar.
 
